@@ -68,3 +68,4 @@ jobs:
                       -Dsonar.token="${SONAR_TOKEN}" \
                       -Dsonar.projectKey="fabio-gos-sonarsource_WebGoat_265cc4a9-9a9b-440f-807a-bc3f9fc62c72"
                       -Dsonar.projectName="WebGoat"
+                      -Dsonar.projectVersion="2025.4-SNAPSHOT"
